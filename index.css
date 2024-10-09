@@ -1,0 +1,38 @@
+h1{
+    background-color: blue;
+   color:white 
+}
+.container{
+    background-color: lightgray;
+    color: black;
+p{color: red;}
+}
+.highlight{
+    color: green;
+} 
+
+.center{
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6{
+    text-decoration-line:underline;
+    text-decoration-style:dashed ;
+}
+.bold-text{
+    font-weight: bold;
+}
+#intro{
+    font-weight: 300;
+}
+*{
+    font-family: arial,serif;  
+}
+.custom-font{
+    font-family: 'Times New Roman', serif;
+}
+h2{
+    text-transform: uppercase;
+}
+.capitalize-text{
+    text-transform: capitalize;
+}
